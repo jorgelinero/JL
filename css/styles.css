@@ -68,13 +68,13 @@ a:hover{
 
 .top-cloud {
   position: absolute;
-  right: 300px;
+  right: 100px;
   top: 50px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 100px;
   bottom: 200px;
 }
 .skill-row{
